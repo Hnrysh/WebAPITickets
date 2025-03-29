@@ -8,7 +8,7 @@ namespace WebAPITickets.Models
         public int ro_identificador { get; set; }
         
         public string ro_descripcion { get; set; }
-`      
+   
         public DateTime ro_fecha_adicion { get; set; }
 
         public string ro_adicionado_por { get; set; }
